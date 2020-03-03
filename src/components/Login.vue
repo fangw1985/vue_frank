@@ -1,6 +1,6 @@
 <template>
     <div>
-        测试组件
+    测试组件
     </div>
 </template>
 <script>
